@@ -1,0 +1,59 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #34495E;
+    background-color: #1ABC9C;
+}
+
+div{
+    background-color: #ECF0F1;
+}
+
+.jumbotron {
+    background-color: #ECF0F1;
+    /*margin: 5px 40px;*/
+    margin-bottom:0px;
+}
+
+.nav{
+    background-color: #ECF0F1;
+}
+.nav-link, .navbar-brand{
+    color: #34495E;
+}
+
+.nav-link:hover{
+    background-color: #1ABC9C;
+    color: #ECF0F1;
+}
+
+.active{
+    background-color: #1ABC9C;
+    color: #ECF0F1;
+}
+
+td{
+    border: 1px solid #1ABC9C;
+}
+
+.tabletitle{
+    background-color: #1ABC9C;
+    color: #ECF0F1;
+}
+
+.title{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+.container{
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+}
+
+h3 ol li{
+    margin-bottom: 30px;
+}
